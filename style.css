@@ -155,6 +155,14 @@ h2 {
     pointer-events: none;
 }
 
+.ghub {
+    padding:3px 7px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 .card {
     color: var(--clr-orange);
     border: 1px solid var(--clr-orange);
